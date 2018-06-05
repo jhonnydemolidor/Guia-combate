@@ -1,0 +1,992 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Combate">
+    <display-name lang="pt">Combate</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <programme start="20180604030000 -0300" stop="20180604031500 -0300" channel="Combate">
+    <title lang="pt">Giro Combate</title>
+    <desc lang="pt">A especialista Ana Hissa traz um giro com as principais notícias do mundo das artes marciais. Imagens e declarações exclusivas, em primeira mão, no Giro Combate, todas as sextas-feiras(n)</desc>
+    <episode-num system="onscreen">E22</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180604031500 -0300" stop="20180604033000 -0300" channel="Combate">
+    <title lang="pt">Lutando Por Um Sonho: Micael Villagra</title>
+    <desc lang="pt">Micael Villagra, conhecido como(n)</desc>
+    <episode-num system="onscreen">E6</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180604033000 -0300" stop="20180604064000 -0300" channel="Combate">
+    <title lang="pt">UFC 212 - Aldo x Holloway</title>
+    <desc lang="pt">O UFC volta ao RJ com José Aldo encarando Max Holloway pela unificação do cinturão dos penas. Em um card cheio de brasileiros, Cláudia Gadelha enfrenta Karolina Kowalkiewicz, Erick Silva pega Yancy Medeiros, e muito mais(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180604064000 -0300" stop="20180604065000 -0300" channel="Combate">
+    <title lang="pt">Minuto BJJ Com Luciana Franchini</title>
+    <desc lang="pt">Matérias sobre o mundo do BJJ com a repórter Luciana Franchini(n)</desc>
+    <episode-num system="onscreen">E17</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180604065000 -0300" stop="20180604070000 -0300" channel="Combate">
+    <title lang="pt">Lutando Por Um Sonho: Micael Villagra</title>
+    <desc lang="pt">Micael Villagra, conhecido como(n)</desc>
+    <episode-num system="onscreen">E6</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180604070000 -0300" stop="20180604090000 -0300" channel="Combate">
+    <title lang="pt">Arena Grappling - ACB JJ 13</title>
+    <desc lang="pt">Com um grande card de Jiu-Jitsu, o ACB JJ 13, realizado em Long Beach, Califórnia, teve Marcus Buchecha x João Gabriel Rocha, Leandro Lo x Gabriel Arges, Roberto Cyborg x Erberth Santos, Luiz Panza x Ricardo Evangelista(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180604090000 -0300" stop="20180604123000 -0300" channel="Combate">
+    <title lang="pt">UFC Fight Night Combate - Rivera x Moraes</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180604123000 -0300" stop="20180604130000 -0300" channel="Combate">
+    <title lang="pt">Sessão Combate - Regras do MMA</title>
+    <desc lang="pt">Carlão Barreto analisa o maior inimigo do esporte: a indisciplina e o desrespeito às regras. Como o UFC combate esse problema, e quem são os grandes indisciplinados da história do MMA(n)</desc>
+    <episode-num system="onscreen">S2 E6</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180604130000 -0300" stop="20180604153000 -0300" channel="Combate">
+    <title lang="pt">UFC Series - UFC 25 Greatest Fights: #8-12</title>
+    <desc lang="pt">O UFC faz a contagem regressiva das 25 melhores lutas de todos os tempos. Veja performances icônicas, viradas de jogo surpreendentes e rivalidades brutais que transformaram atletas em lendas, nesta série especial(n)</desc>
+    <episode-num system="onscreen">E4</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180604153000 -0300" stop="20180604173000 -0300" channel="Combate">
+    <title lang="pt">Arena Grappling - ACB JJ 13</title>
+    <desc lang="pt">Com um grande card de Jiu-Jitsu, o ACB JJ 13, realizado em Long Beach, Califórnia, teve Marcus Buchecha x João Gabriel Rocha, Leandro Lo x Gabriel Arges, Roberto Cyborg x Erberth Santos, Luiz Panza x Ricardo Evangelista(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180604173000 -0300" stop="20180604183000 -0300" channel="Combate">
+    <title lang="pt">The Ultimate Fighter 27: Undefeated</title>
+    <desc lang="pt">As coisas esquentam entre as equipes depois que um assistente técnico descobre que um dos lutadores da equipe adversária está lesionado. Então, dois pesos leves se enfrentam na quinta luta preliminar(n)</desc>
+    <episode-num system="onscreen">E5</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180604183000 -0300" stop="20180604193000 -0300" channel="Combate">
+    <title lang="pt">The Ultimate Fighter 27: Undefeated</title>
+    <desc lang="pt">Este episódio especial apresenta os melhores momentos dos cinco primeiros episódios de The Ultimate Fighter 27: Undefeated. Pela primeira vez, todos os 16 lutadores do torneio nunca perderam uma luta profissional(n)</desc>
+    <episode-num system="onscreen">E6</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180604193000 -0300" stop="20180604200000 -0300" channel="Combate">
+    <title lang="pt">Sensei Combate</title>
+    <desc lang="pt">No Sensei, você vê o aquecimento para o UFC 212, que acontece no Rio de Janeiro, dia 03/06. Também temos o 3º episódio da série sobre judô em Israel. Além disso, vemos a inauguração do Instituto de Performance do UFC(n)</desc>
+    <episode-num system="onscreen">E22</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180604200000 -0300" stop="20180604210500 -0300" channel="Combate">
+    <title lang="pt">Sessão Combate - Mexican Fighter</title>
+    <desc lang="pt">Documentário sobre o MMA e a cúltura azteca, conta as histórias dos lutadores Cain Velasquez, Gilbert Melendez e Miguel Torres(n)</desc>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180604210500 -0300" stop="20180604220000 -0300" channel="Combate">
+    <title lang="pt">Sessão Combate - Nascidos Para O Combate: Claudia Gadelha 2ª Temp</title>
+    <desc lang="pt">Mostrará a vida e carreira de Claudia Gadelha, Edson Barboza, Shogun e Demian Maia grandes atletas de MMA do UFC. Como foi a infância, quando começou a treinar, quem são seus ídolos no esporte, suas inspirações, seus sacrifícios(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180604220000 -0300" stop="20180604221000 -0300" channel="Combate">
+    <title lang="pt">Minuto BJJ Com Luciana Franchini</title>
+    <desc lang="pt">Matérias sobre o mundo do BJJ com a repórter Luciana Franchini(n)</desc>
+    <episode-num system="onscreen">E18</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180604221000 -0300" stop="20180605030000 -0300" channel="Combate">
+    <title lang="pt">Arena Grappling - UAEJJ Gramado International Pro</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180605030000 -0300" stop="20180605031500 -0300" channel="Combate">
+    <title lang="pt">Giro Combate</title>
+    <desc lang="pt">A especialista Ana Hissa traz um giro com as principais notícias do mundo das artes marciais. Imagens e declarações exclusivas, em primeira mão, no Giro Combate, todas as sextas-feiras(n)</desc>
+    <episode-num system="onscreen">E22</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180605031500 -0300" stop="20180605033000 -0300" channel="Combate">
+    <title lang="pt">Lutando Por Um Sonho: Micael Villagra</title>
+    <desc lang="pt">Micael Villagra, conhecido como(n)</desc>
+    <episode-num system="onscreen">E6</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180605033000 -0300" stop="20180605064000 -0300" channel="Combate">
+    <title lang="pt">UFC 212 - Aldo x Holloway</title>
+    <desc lang="pt">O UFC volta ao RJ com José Aldo encarando Max Holloway pela unificação do cinturão dos penas. Em um card cheio de brasileiros, Cláudia Gadelha enfrenta Karolina Kowalkiewicz, Erick Silva pega Yancy Medeiros, e muito mais(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180605064000 -0300" stop="20180605065000 -0300" channel="Combate">
+    <title lang="pt">Minuto BJJ Com Luciana Franchini</title>
+    <desc lang="pt">Matérias sobre o mundo do BJJ com a repórter Luciana Franchini(n)</desc>
+    <episode-num system="onscreen">E17</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180605065000 -0300" stop="20180605070000 -0300" channel="Combate">
+    <title lang="pt">Lutando Por Um Sonho: Micael Villagra</title>
+    <desc lang="pt">Micael Villagra, conhecido como(n)</desc>
+    <episode-num system="onscreen">E6</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180605070000 -0300" stop="20180605090000 -0300" channel="Combate">
+    <title lang="pt">Arena Grappling - ACB JJ 13</title>
+    <desc lang="pt">Com um grande card de Jiu-Jitsu, o ACB JJ 13, realizado em Long Beach, Califórnia, teve Marcus Buchecha x João Gabriel Rocha, Leandro Lo x Gabriel Arges, Roberto Cyborg x Erberth Santos, Luiz Panza x Ricardo Evangelista(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180605090000 -0300" stop="20180605123000 -0300" channel="Combate">
+    <title lang="pt">UFC Fight Night Combate - Rivera x Moraes</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180605123000 -0300" stop="20180605130000 -0300" channel="Combate">
+    <title lang="pt">Sessão Combate - Regras do MMA</title>
+    <desc lang="pt">Carlão Barreto analisa o maior inimigo do esporte: a indisciplina e o desrespeito às regras. Como o UFC combate esse problema, e quem são os grandes indisciplinados da história do MMA(n)</desc>
+    <episode-num system="onscreen">S2 E6</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180605130000 -0300" stop="20180605153000 -0300" channel="Combate">
+    <title lang="pt">UFC Series - UFC 25 Greatest Fights: #8-12</title>
+    <desc lang="pt">O UFC faz a contagem regressiva das 25 melhores lutas de todos os tempos. Veja performances icônicas, viradas de jogo surpreendentes e rivalidades brutais que transformaram atletas em lendas, nesta série especial(n)</desc>
+    <episode-num system="onscreen">E4</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180605153000 -0300" stop="20180605173000 -0300" channel="Combate">
+    <title lang="pt">Arena Grappling - ACB JJ 13</title>
+    <desc lang="pt">Com um grande card de Jiu-Jitsu, o ACB JJ 13, realizado em Long Beach, Califórnia, teve Marcus Buchecha x João Gabriel Rocha, Leandro Lo x Gabriel Arges, Roberto Cyborg x Erberth Santos, Luiz Panza x Ricardo Evangelista(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180605173000 -0300" stop="20180605183000 -0300" channel="Combate">
+    <title lang="pt">The Ultimate Fighter 27: Undefeated</title>
+    <desc lang="pt">As coisas esquentam entre as equipes depois que um assistente técnico descobre que um dos lutadores da equipe adversária está lesionado. Então, dois pesos leves se enfrentam na quinta luta preliminar(n)</desc>
+    <episode-num system="onscreen">E5</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180605183000 -0300" stop="20180605193000 -0300" channel="Combate">
+    <title lang="pt">The Ultimate Fighter 27: Undefeated</title>
+    <desc lang="pt">Este episódio especial apresenta os melhores momentos dos cinco primeiros episódios de The Ultimate Fighter 27: Undefeated. Pela primeira vez, todos os 16 lutadores do torneio nunca perderam uma luta profissional(n)</desc>
+    <episode-num system="onscreen">E6</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180605193000 -0300" stop="20180605200000 -0300" channel="Combate">
+    <title lang="pt">Sensei Combate</title>
+    <desc lang="pt">No Sensei, você vê o aquecimento para o UFC 212, que acontece no Rio de Janeiro, dia 03/06. Também temos o 3º episódio da série sobre judô em Israel. Além disso, vemos a inauguração do Instituto de Performance do UFC(n)</desc>
+    <episode-num system="onscreen">E22</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180605200000 -0300" stop="20180605210500 -0300" channel="Combate">
+    <title lang="pt">Sessão Combate - Mexican Fighter</title>
+    <desc lang="pt">Documentário sobre o MMA e a cúltura azteca, conta as histórias dos lutadores Cain Velasquez, Gilbert Melendez e Miguel Torres(n)</desc>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180605210500 -0300" stop="20180605220000 -0300" channel="Combate">
+    <title lang="pt">Sessão Combate - Nascidos Para O Combate: Claudia Gadelha 2ª Temp</title>
+    <desc lang="pt">Mostrará a vida e carreira de Claudia Gadelha, Edson Barboza, Shogun e Demian Maia grandes atletas de MMA do UFC. Como foi a infância, quando começou a treinar, quem são seus ídolos no esporte, suas inspirações, seus sacrifícios(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180605220000 -0300" stop="20180605221000 -0300" channel="Combate">
+    <title lang="pt">Minuto BJJ Com Luciana Franchini</title>
+    <desc lang="pt">Matérias sobre o mundo do BJJ com a repórter Luciana Franchini(n)</desc>
+    <episode-num system="onscreen">E18</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180605221000 -0300" stop="20180606001000 -0300" channel="Combate">
+    <title lang="pt">Arena Grappling - UAEJJ Gramado International Pro</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180606001000 -0300" stop="20180606010000 -0300" channel="Combate">
+    <title lang="pt">The Ultimate Fighter 18: Team Rousey x Team Tate</title>
+    <desc lang="pt">A rixa entre as treinadoras alcança um novo patamar, quando Ronda e Miesha se enfrentam no(n)</desc>
+    <episode-num system="onscreen">E11</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180606010000 -0300" stop="20180606020000 -0300" channel="Combate">
+    <title lang="pt">The Ultimate Fighter 18: Team Rousey x Team Tate</title>
+    <desc lang="pt">Jessica Rakoczy, da equipe Rousey, e Raquel Pennington, da equipe Tate, se machucam com gravidade durante os treinamentos. Uma das duas terá que reunir forças para enfrentar Juliana Peña na final(n)</desc>
+    <episode-num system="onscreen">E12</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180606020000 -0300" stop="20180606031000 -0300" channel="Combate">
+    <title lang="pt">Sessão Combate - Mexican Fighter</title>
+    <desc lang="pt">Documentário sobre o MMA e a cúltura azteca, conta as histórias dos lutadores Cain Velasquez, Gilbert Melendez e Miguel Torres(n)</desc>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180606031000 -0300" stop="20180606033000 -0300" channel="Combate">
+    <title lang="pt">Sessão Combate - MMA em Família: Claudia Gadelha</title>
+    <desc lang="pt">Isabel Salgado, ex-atleta da seleção brasileira de vôlei, mostra o lado familiar dos atletas do UFC, todas as dificuldades que eles passaram para chegar à maior organização de MMA do mundo e a influência da família(n)</desc>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180606033000 -0300" stop="20180606040000 -0300" channel="Combate">
+    <title lang="pt">Sensei Combate</title>
+    <desc lang="pt">No Sensei, você vê o aquecimento para o UFC 212, que acontece no Rio de Janeiro, dia 03/06. Também temos o 3º episódio da série sobre judô em Israel. Além disso, vemos a inauguração do Instituto de Performance do UFC(n)</desc>
+    <episode-num system="onscreen">E22</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180606040000 -0300" stop="20180606060000 -0300" channel="Combate">
+    <title lang="pt">Arena Grappling - UAEJJ Gramado International Pro</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180606060000 -0300" stop="20180606070000 -0300" channel="Combate">
+    <title lang="pt">Sessão Combate - Nascidos Para O Combate: Claudia Gadelha 2ª Temp</title>
+    <desc lang="pt">Mostrará a vida e carreira de Claudia Gadelha, Edson Barboza, Shogun e Demian Maia grandes atletas de MMA do UFC. Como foi a infância, quando começou a treinar, quem são seus ídolos no esporte, suas inspirações, seus sacrifícios(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180606070000 -0300" stop="20180606080000 -0300" channel="Combate">
+    <title lang="pt">Sessão Combate - Mexican Fighter</title>
+    <desc lang="pt">Documentário sobre o MMA e a cúltura azteca, conta as histórias dos lutadores Cain Velasquez, Gilbert Melendez e Miguel Torres(n)</desc>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180606080000 -0300" stop="20180606083000 -0300" channel="Combate">
+    <title lang="pt">Sessão Combate - MMA em Família: Claudia Gadelha</title>
+    <desc lang="pt">Isabel Salgado, ex-atleta da seleção brasileira de vôlei, mostra o lado familiar dos atletas do UFC, todas as dificuldades que eles passaram para chegar à maior organização de MMA do mundo e a influência da família(n)</desc>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180606083000 -0300" stop="20180606090000 -0300" channel="Combate">
+    <title lang="pt">Sensei Combate</title>
+    <desc lang="pt">No Sensei, você vê o aquecimento para o UFC 212, que acontece no Rio de Janeiro, dia 03/06. Também temos o 3º episódio da série sobre judô em Israel. Além disso, vemos a inauguração do Instituto de Performance do UFC(n)</desc>
+    <episode-num system="onscreen">E22</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180606090000 -0300" stop="20180606110000 -0300" channel="Combate">
+    <title lang="pt">Combate Brasil - Shooto 84</title>
+    <desc lang="pt">O Shooto realiza sua edição 84 com o ex-UFC Hacran Dias encarando Maurício Machado na luta principal. Fábio Nascimento e Lucas Ananias fazem o co-main event, e o policial do Bope Rafael Bernardo enfrenta Jaciel de Souza(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180606110000 -0300" stop="20180606120000 -0300" channel="Combate">
+    <title lang="pt">Sessão Combate - Nascidos Para O Combate: Claudia Gadelha 2ª Temp</title>
+    <desc lang="pt">Mostrará a vida e carreira de Claudia Gadelha, Edson Barboza, Shogun e Demian Maia grandes atletas de MMA do UFC. Como foi a infância, quando começou a treinar, quem são seus ídolos no esporte, suas inspirações, seus sacrifícios(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180606120000 -0300" stop="20180606153000 -0300" channel="Combate">
+    <title lang="pt">UFC Fight Night Combate - Dos Anjos x Cerrone</title>
+    <desc lang="pt">Neste UFC, Rafael dos Anjos enfrenta o cowboy Donald Cerrone para defender seu cinturão. Júnior Cigano duela com Alistair Overeem, Charles Oliveira pega Myles Jury, e Vicente Luque encara Hayder Hassan(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180606153000 -0300" stop="20180606163000 -0300" channel="Combate">
+    <title lang="pt">Sessão Combate - Mexican Fighter</title>
+    <desc lang="pt">Documentário sobre o MMA e a cúltura azteca, conta as histórias dos lutadores Cain Velasquez, Gilbert Melendez e Miguel Torres(n)</desc>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180606163000 -0300" stop="20180606170000 -0300" channel="Combate">
+    <title lang="pt">Sessão Combate - MMA em Família: Claudia Gadelha</title>
+    <desc lang="pt">Isabel Salgado, ex-atleta da seleção brasileira de vôlei, mostra o lado familiar dos atletas do UFC, todas as dificuldades que eles passaram para chegar à maior organização de MMA do mundo e a influência da família(n)</desc>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180606170000 -0300" stop="20180606173000 -0300" channel="Combate">
+    <title lang="pt">Sensei Combate</title>
+    <desc lang="pt">No Sensei, você vê o aquecimento para o UFC 212, que acontece no Rio de Janeiro, dia 03/06. Também temos o 3º episódio da série sobre judô em Israel. Além disso, vemos a inauguração do Instituto de Performance do UFC(n)</desc>
+    <episode-num system="onscreen">E22</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180606173000 -0300" stop="20180606193000 -0300" channel="Combate">
+    <title lang="pt">Combate Brasil - Shooto 84</title>
+    <desc lang="pt">O Shooto realiza sua edição 84 com o ex-UFC Hacran Dias encarando Maurício Machado na luta principal. Fábio Nascimento e Lucas Ananias fazem o co-main event, e o policial do Bope Rafael Bernardo enfrenta Jaciel de Souza(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180606193000 -0300" stop="20180606200000 -0300" channel="Combate">
+    <title lang="pt">UFC Series - UFC Fight Flashback: Romero x Whittaker</title>
+    <desc lang="pt">No UFC 213, os nocauteadores Robert Whittaker e Yoel Romero duelaram pelo cinturão interino dos médios. O UFC Fight Flashback te leva para dentro dessa luta emocionante com imagens e sonoras exclusivas pré evento(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180606200000 -0300" stop="20180606210000 -0300" channel="Combate">
+    <title lang="pt">Revista Combate - Ao Vivo</title>
+    <desc lang="pt">A revista eletrônica semanal do Combate vai ao ar todos às terças-feiras, AO VIVO, a partir das 20h, com programas inéditos(n)</desc>
+    <episode-num system="onscreen">E23</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180606210000 -0300" stop="20180606233000 -0300" channel="Combate">
+    <title lang="pt">UFC Series - UFC 25 Greatest Fights: #5-7</title>
+    <desc lang="pt">O UFC faz a contagem regressiva das 25 melhores lutas de todos os tempos. Veja performances icônicas, viradas de jogo surpreendentes e rivalidades brutais que transformaram atletas em lendas, nesta série especial(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180606233000 -0300" stop="20180607001000 -0300" channel="Combate">
+    <title lang="pt">Combate Brasil - Shooto 70</title>
+    <desc lang="pt">Na luta principal do Shooto 70, o ex-UFC Dileno Lopes encara Eliel Topete Dourado pela divisão dos moscas. Além disso, Guilherme Doin enfrenta Thiago Manchinha, e Rafael Bernardo pega Roger Berger(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180607001000 -0300" stop="20180607010000 -0300" channel="Combate">
+    <title lang="pt">The Ultimate Fighter 18: Team Rousey x Team Tate</title>
+    <desc lang="pt">A rixa entre as treinadoras alcança um novo patamar, quando Ronda e Miesha se enfrentam no(n)</desc>
+    <episode-num system="onscreen">E11</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180607010000 -0300" stop="20180607020000 -0300" channel="Combate">
+    <title lang="pt">The Ultimate Fighter 18: Team Rousey x Team Tate</title>
+    <desc lang="pt">Jessica Rakoczy, da equipe Rousey, e Raquel Pennington, da equipe Tate, se machucam com gravidade durante os treinamentos. Uma das duas terá que reunir forças para enfrentar Juliana Peña na final(n)</desc>
+    <episode-num system="onscreen">E12</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180607020000 -0300" stop="20180607031000 -0300" channel="Combate">
+    <title lang="pt">Sessão Combate - Mexican Fighter</title>
+    <desc lang="pt">Documentário sobre o MMA e a cúltura azteca, conta as histórias dos lutadores Cain Velasquez, Gilbert Melendez e Miguel Torres(n)</desc>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180607031000 -0300" stop="20180607033000 -0300" channel="Combate">
+    <title lang="pt">Sessão Combate - MMA em Família: Claudia Gadelha</title>
+    <desc lang="pt">Isabel Salgado, ex-atleta da seleção brasileira de vôlei, mostra o lado familiar dos atletas do UFC, todas as dificuldades que eles passaram para chegar à maior organização de MMA do mundo e a influência da família(n)</desc>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180607033000 -0300" stop="20180607040000 -0300" channel="Combate">
+    <title lang="pt">Sensei Combate</title>
+    <desc lang="pt">No Sensei, você vê o aquecimento para o UFC 212, que acontece no Rio de Janeiro, dia 03/06. Também temos o 3º episódio da série sobre judô em Israel. Além disso, vemos a inauguração do Instituto de Performance do UFC(n)</desc>
+    <episode-num system="onscreen">E22</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180607040000 -0300" stop="20180607060000 -0300" channel="Combate">
+    <title lang="pt">Arena Grappling - UAEJJ Gramado International Pro</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180607060000 -0300" stop="20180607070000 -0300" channel="Combate">
+    <title lang="pt">Sessão Combate - Nascidos Para O Combate: Claudia Gadelha 2ª Temp</title>
+    <desc lang="pt">Mostrará a vida e carreira de Claudia Gadelha, Edson Barboza, Shogun e Demian Maia grandes atletas de MMA do UFC. Como foi a infância, quando começou a treinar, quem são seus ídolos no esporte, suas inspirações, seus sacrifícios(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180607070000 -0300" stop="20180607080000 -0300" channel="Combate">
+    <title lang="pt">Sessão Combate - Mexican Fighter</title>
+    <desc lang="pt">Documentário sobre o MMA e a cúltura azteca, conta as histórias dos lutadores Cain Velasquez, Gilbert Melendez e Miguel Torres(n)</desc>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180607080000 -0300" stop="20180607083000 -0300" channel="Combate">
+    <title lang="pt">Sessão Combate - MMA em Família: Claudia Gadelha</title>
+    <desc lang="pt">Isabel Salgado, ex-atleta da seleção brasileira de vôlei, mostra o lado familiar dos atletas do UFC, todas as dificuldades que eles passaram para chegar à maior organização de MMA do mundo e a influência da família(n)</desc>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180607083000 -0300" stop="20180607090000 -0300" channel="Combate">
+    <title lang="pt">Sensei Combate</title>
+    <desc lang="pt">No Sensei, você vê o aquecimento para o UFC 212, que acontece no Rio de Janeiro, dia 03/06. Também temos o 3º episódio da série sobre judô em Israel. Além disso, vemos a inauguração do Instituto de Performance do UFC(n)</desc>
+    <episode-num system="onscreen">E22</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180607090000 -0300" stop="20180607110000 -0300" channel="Combate">
+    <title lang="pt">Combate Brasil - Shooto 84</title>
+    <desc lang="pt">O Shooto realiza sua edição 84 com o ex-UFC Hacran Dias encarando Maurício Machado na luta principal. Fábio Nascimento e Lucas Ananias fazem o co-main event, e o policial do Bope Rafael Bernardo enfrenta Jaciel de Souza(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180607110000 -0300" stop="20180607120000 -0300" channel="Combate">
+    <title lang="pt">Sessão Combate - Nascidos Para O Combate: Claudia Gadelha 2ª Temp</title>
+    <desc lang="pt">Mostrará a vida e carreira de Claudia Gadelha, Edson Barboza, Shogun e Demian Maia grandes atletas de MMA do UFC. Como foi a infância, quando começou a treinar, quem são seus ídolos no esporte, suas inspirações, seus sacrifícios(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180607120000 -0300" stop="20180607153000 -0300" channel="Combate">
+    <title lang="pt">UFC Fight Night Combate - Dos Anjos x Cerrone</title>
+    <desc lang="pt">Neste UFC, Rafael dos Anjos enfrenta o cowboy Donald Cerrone para defender seu cinturão. Júnior Cigano duela com Alistair Overeem, Charles Oliveira pega Myles Jury, e Vicente Luque encara Hayder Hassan(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180607153000 -0300" stop="20180607163000 -0300" channel="Combate">
+    <title lang="pt">Sessão Combate - Mexican Fighter</title>
+    <desc lang="pt">Documentário sobre o MMA e a cúltura azteca, conta as histórias dos lutadores Cain Velasquez, Gilbert Melendez e Miguel Torres(n)</desc>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180607163000 -0300" stop="20180607170000 -0300" channel="Combate">
+    <title lang="pt">Sessão Combate - MMA em Família: Claudia Gadelha</title>
+    <desc lang="pt">Isabel Salgado, ex-atleta da seleção brasileira de vôlei, mostra o lado familiar dos atletas do UFC, todas as dificuldades que eles passaram para chegar à maior organização de MMA do mundo e a influência da família(n)</desc>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180607170000 -0300" stop="20180607173000 -0300" channel="Combate">
+    <title lang="pt">Sensei Combate</title>
+    <desc lang="pt">No Sensei, você vê o aquecimento para o UFC 212, que acontece no Rio de Janeiro, dia 03/06. Também temos o 3º episódio da série sobre judô em Israel. Além disso, vemos a inauguração do Instituto de Performance do UFC(n)</desc>
+    <episode-num system="onscreen">E22</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180607173000 -0300" stop="20180607193000 -0300" channel="Combate">
+    <title lang="pt">Combate Brasil - Shooto 84</title>
+    <desc lang="pt">O Shooto realiza sua edição 84 com o ex-UFC Hacran Dias encarando Maurício Machado na luta principal. Fábio Nascimento e Lucas Ananias fazem o co-main event, e o policial do Bope Rafael Bernardo enfrenta Jaciel de Souza(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180607193000 -0300" stop="20180607200000 -0300" channel="Combate">
+    <title lang="pt">UFC Series - UFC Fight Flashback: Romero x Whittaker</title>
+    <desc lang="pt">No UFC 213, os nocauteadores Robert Whittaker e Yoel Romero duelaram pelo cinturão interino dos médios. O UFC Fight Flashback te leva para dentro dessa luta emocionante com imagens e sonoras exclusivas pré evento(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180607200000 -0300" stop="20180607210000 -0300" channel="Combate">
+    <title lang="pt">Revista Combate - Ao Vivo</title>
+    <desc lang="pt">A revista eletrônica semanal do Combate vai ao ar todos às terças-feiras, AO VIVO, a partir das 20h, com programas inéditos(n)</desc>
+    <episode-num system="onscreen">E23</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180607210000 -0300" stop="20180607233000 -0300" channel="Combate">
+    <title lang="pt">UFC Series - UFC 25 Greatest Fights: #5-7</title>
+    <desc lang="pt">O UFC faz a contagem regressiva das 25 melhores lutas de todos os tempos. Veja performances icônicas, viradas de jogo surpreendentes e rivalidades brutais que transformaram atletas em lendas, nesta série especial(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180607233000 -0300" stop="20180608013000 -0300" channel="Combate">
+    <title lang="pt">Combate Brasil - Shooto 70</title>
+    <desc lang="pt">Na luta principal do Shooto 70, o ex-UFC Dileno Lopes encara Eliel Topete Dourado pela divisão dos moscas. Além disso, Guilherme Doin enfrenta Thiago Manchinha, e Rafael Bernardo pega Roger Berger(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180608013000 -0300" stop="20180608023000 -0300" channel="Combate">
+    <title lang="pt">Revista Combate</title>
+    <desc lang="pt">A revista eletrônica semanal do Combate vai ao ar todos às terças-feiras, AO VIVO, a partir das 20h, com programas inéditos. A atração conta com quadros variados com atualidades e curiosidades do mundo das lutas(n)</desc>
+    <episode-num system="onscreen">E23</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180608023000 -0300" stop="20180608050000 -0300" channel="Combate">
+    <title lang="pt">UFC Series - UFC 25 Greatest Fights: #5-7</title>
+    <desc lang="pt">O UFC faz a contagem regressiva das 25 melhores lutas de todos os tempos. Veja performances icônicas, viradas de jogo surpreendentes e rivalidades brutais que transformaram atletas em lendas, nesta série especial(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180608050000 -0300" stop="20180608070000 -0300" channel="Combate">
+    <title lang="pt">Combate Brasil - Shooto 70</title>
+    <desc lang="pt">Na luta principal do Shooto 70, o ex-UFC Dileno Lopes encara Eliel Topete Dourado pela divisão dos moscas. Além disso, Guilherme Doin enfrenta Thiago Manchinha, e Rafael Bernardo pega Roger Berger(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180608070000 -0300" stop="20180608080000 -0300" channel="Combate">
+    <title lang="pt">Revista Combate</title>
+    <desc lang="pt">A revista eletrônica semanal do Combate vai ao ar todos às terças-feiras, AO VIVO, a partir das 20h, com programas inéditos. A atração conta com quadros variados com atualidades e curiosidades do mundo das lutas(n)</desc>
+    <episode-num system="onscreen">E23</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180608080000 -0300" stop="20180608093000 -0300" channel="Combate">
+    <title lang="pt">Arena Striking - Glory 53: Lille Super Fights</title>
+    <desc lang="pt">Nesta edição do Glory temos Sitthichai Sitsongpeenong x Tyjani Beztati, Jamal Ben Saddik x Jahfarr Wilnis, Cedric Doumbe x Eyevan Danenberg, Yousri Belgaroui x Jason Wilnis, e muito mais(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180608093000 -0300" stop="20180608110000 -0300" channel="Combate">
+    <title lang="pt">Arena Striking - Glory 53: Lille</title>
+    <desc lang="pt">Nesta edição do Glory temos Sitthichai Sitsongpeenong x Tyjani Beztati, Jamal Ben Saddik x Jahfarr Wilnis, Cedric Doumbe x Eyevan Danenberg, Yousri Belgaroui x Jason Wilnis, e muito mais(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180608110000 -0300" stop="20180608120000 -0300" channel="Combate">
+    <title lang="pt">Revista Combate</title>
+    <desc lang="pt">A revista eletrônica semanal do Combate vai ao ar todos às terças-feiras, AO VIVO, a partir das 20h, com programas inéditos. A atração conta com quadros variados com atualidades e curiosidades do mundo das lutas(n)</desc>
+    <episode-num system="onscreen">E23</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180608120000 -0300" stop="20180608124500 -0300" channel="Combate">
+    <title lang="pt">The Ultimate Fighter 18: Team Rousey x Team Tate</title>
+    <desc lang="pt">A rixa entre as treinadoras alcança um novo patamar, quando Ronda e Miesha se enfrentam no(n)</desc>
+    <episode-num system="onscreen">E11</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180608124500 -0300" stop="20180608133000 -0300" channel="Combate">
+    <title lang="pt">The Ultimate Fighter 18: Team Rousey x Team Tate</title>
+    <desc lang="pt">Jessica Rakoczy, da equipe Rousey, e Raquel Pennington, da equipe Tate, se machucam com gravidade durante os treinamentos. Uma das duas terá que reunir forças para enfrentar Juliana Peña na final(n)</desc>
+    <episode-num system="onscreen">E12</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180608133000 -0300" stop="20180608141500 -0300" channel="Combate">
+    <title lang="pt">The Ultimate Fighter 27: Undefeated</title>
+    <desc lang="pt">As coisas esquentam entre as equipes depois que um assistente técnico descobre que um dos lutadores da equipe adversária está lesionado. Então, dois pesos leves se enfrentam na quinta luta preliminar(n)</desc>
+    <episode-num system="onscreen">E5</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180608141500 -0300" stop="20180608150000 -0300" channel="Combate">
+    <title lang="pt">The Ultimate Fighter 27: Undefeated</title>
+    <desc lang="pt">Este episódio especial apresenta os melhores momentos dos cinco primeiros episódios de The Ultimate Fighter 27: Undefeated. Pela primeira vez, todos os 16 lutadores do torneio nunca perderam uma luta profissional(n)</desc>
+    <episode-num system="onscreen">E6</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180608150000 -0300" stop="20180608163000 -0300" channel="Combate">
+    <title lang="pt">Arena Striking - Glory 53: Lille Super Fights</title>
+    <desc lang="pt">Nesta edição do Glory temos Sitthichai Sitsongpeenong x Tyjani Beztati, Jamal Ben Saddik x Jahfarr Wilnis, Cedric Doumbe x Eyevan Danenberg, Yousri Belgaroui x Jason Wilnis, e muito mais(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180608163000 -0300" stop="20180608180000 -0300" channel="Combate">
+    <title lang="pt">Arena Striking - Glory 53: Lille</title>
+    <desc lang="pt">Nesta edição do Glory temos Sitthichai Sitsongpeenong x Tyjani Beztati, Jamal Ben Saddik x Jahfarr Wilnis, Cedric Doumbe x Eyevan Danenberg, Yousri Belgaroui x Jason Wilnis, e muito mais(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180608180000 -0300" stop="20180608200000 -0300" channel="Combate">
+    <title lang="pt">The Ultimate Fighter 22 - Team Mcgregor x Team Faber</title>
+    <desc lang="pt">Reality show em que McGregor e Faber selecionam participantes e treinam seus times para que no final consigam uma vaga no UFC(n)</desc>
+    <episode-num system="onscreen">E1</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180608200000 -0300" stop="20180608210000 -0300" channel="Combate">
+    <title lang="pt">The Ultimate Fighter 27: Undefeated</title>
+    <desc lang="pt">Este episódio especial apresenta os melhores momentos dos cinco primeiros episódios de The Ultimate Fighter 27: Undefeated. Pela primeira vez, todos os 16 lutadores do torneio nunca perderam uma luta profissional(n)</desc>
+    <episode-num system="onscreen">E6</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180608210000 -0300" stop="20180608220000 -0300" channel="Combate">
+    <title lang="pt">The Ultimate Fighter 27: Undefeated</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <episode-num system="onscreen">E7</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180608220000 -0300" stop="20180608233000 -0300" channel="Combate">
+    <title lang="pt">Glory 54: Birimingham Super Fight Series</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180608233000 -0300" stop="20180609013000 -0300" channel="Combate">
+    <title lang="pt">Glory 54: Birimingham</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180609013000 -0300" stop="20180609023000 -0300" channel="Combate">
+    <title lang="pt">Revista Combate</title>
+    <desc lang="pt">A revista eletrônica semanal do Combate vai ao ar todos às terças-feiras, AO VIVO, a partir das 20h, com programas inéditos. A atração conta com quadros variados com atualidades e curiosidades do mundo das lutas(n)</desc>
+    <episode-num system="onscreen">E23</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180609023000 -0300" stop="20180609050000 -0300" channel="Combate">
+    <title lang="pt">UFC Series - UFC 25 Greatest Fights: #5-7</title>
+    <desc lang="pt">O UFC faz a contagem regressiva das 25 melhores lutas de todos os tempos. Veja performances icônicas, viradas de jogo surpreendentes e rivalidades brutais que transformaram atletas em lendas, nesta série especial(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180609050000 -0300" stop="20180609070000 -0300" channel="Combate">
+    <title lang="pt">Combate Brasil - Shooto 70</title>
+    <desc lang="pt">Na luta principal do Shooto 70, o ex-UFC Dileno Lopes encara Eliel Topete Dourado pela divisão dos moscas. Além disso, Guilherme Doin enfrenta Thiago Manchinha, e Rafael Bernardo pega Roger Berger(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180609070000 -0300" stop="20180609080000 -0300" channel="Combate">
+    <title lang="pt">Revista Combate</title>
+    <desc lang="pt">A revista eletrônica semanal do Combate vai ao ar todos às terças-feiras, AO VIVO, a partir das 20h, com programas inéditos. A atração conta com quadros variados com atualidades e curiosidades do mundo das lutas(n)</desc>
+    <episode-num system="onscreen">E23</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180609080000 -0300" stop="20180609093000 -0300" channel="Combate">
+    <title lang="pt">Arena Striking - Glory 53: Lille Super Fights</title>
+    <desc lang="pt">Nesta edição do Glory temos Sitthichai Sitsongpeenong x Tyjani Beztati, Jamal Ben Saddik x Jahfarr Wilnis, Cedric Doumbe x Eyevan Danenberg, Yousri Belgaroui x Jason Wilnis, e muito mais(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180609093000 -0300" stop="20180609110000 -0300" channel="Combate">
+    <title lang="pt">Arena Striking - Glory 53: Lille</title>
+    <desc lang="pt">Nesta edição do Glory temos Sitthichai Sitsongpeenong x Tyjani Beztati, Jamal Ben Saddik x Jahfarr Wilnis, Cedric Doumbe x Eyevan Danenberg, Yousri Belgaroui x Jason Wilnis, e muito mais(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180609110000 -0300" stop="20180609120000 -0300" channel="Combate">
+    <title lang="pt">Revista Combate</title>
+    <desc lang="pt">A revista eletrônica semanal do Combate vai ao ar todos às terças-feiras, AO VIVO, a partir das 20h, com programas inéditos. A atração conta com quadros variados com atualidades e curiosidades do mundo das lutas(n)</desc>
+    <episode-num system="onscreen">E23</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180609120000 -0300" stop="20180609124500 -0300" channel="Combate">
+    <title lang="pt">The Ultimate Fighter 18: Team Rousey x Team Tate</title>
+    <desc lang="pt">A rixa entre as treinadoras alcança um novo patamar, quando Ronda e Miesha se enfrentam no(n)</desc>
+    <episode-num system="onscreen">E11</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180609124500 -0300" stop="20180609133000 -0300" channel="Combate">
+    <title lang="pt">The Ultimate Fighter 18: Team Rousey x Team Tate</title>
+    <desc lang="pt">Jessica Rakoczy, da equipe Rousey, e Raquel Pennington, da equipe Tate, se machucam com gravidade durante os treinamentos. Uma das duas terá que reunir forças para enfrentar Juliana Peña na final(n)</desc>
+    <episode-num system="onscreen">E12</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180609133000 -0300" stop="20180609141500 -0300" channel="Combate">
+    <title lang="pt">The Ultimate Fighter 27: Undefeated</title>
+    <desc lang="pt">As coisas esquentam entre as equipes depois que um assistente técnico descobre que um dos lutadores da equipe adversária está lesionado. Então, dois pesos leves se enfrentam na quinta luta preliminar(n)</desc>
+    <episode-num system="onscreen">E5</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180609141500 -0300" stop="20180609150000 -0300" channel="Combate">
+    <title lang="pt">The Ultimate Fighter 27: Undefeated</title>
+    <desc lang="pt">Este episódio especial apresenta os melhores momentos dos cinco primeiros episódios de The Ultimate Fighter 27: Undefeated. Pela primeira vez, todos os 16 lutadores do torneio nunca perderam uma luta profissional(n)</desc>
+    <episode-num system="onscreen">E6</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180609150000 -0300" stop="20180609163000 -0300" channel="Combate">
+    <title lang="pt">Arena Striking - Glory 53: Lille Super Fights</title>
+    <desc lang="pt">Nesta edição do Glory temos Sitthichai Sitsongpeenong x Tyjani Beztati, Jamal Ben Saddik x Jahfarr Wilnis, Cedric Doumbe x Eyevan Danenberg, Yousri Belgaroui x Jason Wilnis, e muito mais(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180609163000 -0300" stop="20180609180000 -0300" channel="Combate">
+    <title lang="pt">Arena Striking - Glory 53: Lille</title>
+    <desc lang="pt">Nesta edição do Glory temos Sitthichai Sitsongpeenong x Tyjani Beztati, Jamal Ben Saddik x Jahfarr Wilnis, Cedric Doumbe x Eyevan Danenberg, Yousri Belgaroui x Jason Wilnis, e muito mais(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180609180000 -0300" stop="20180609200000 -0300" channel="Combate">
+    <title lang="pt">The Ultimate Fighter 22 - Team Mcgregor x Team Faber</title>
+    <desc lang="pt">Reality show em que McGregor e Faber selecionam participantes e treinam seus times para que no final consigam uma vaga no UFC(n)</desc>
+    <episode-num system="onscreen">E1</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180609200000 -0300" stop="20180609210000 -0300" channel="Combate">
+    <title lang="pt">The Ultimate Fighter 27: Undefeated</title>
+    <desc lang="pt">Este episódio especial apresenta os melhores momentos dos cinco primeiros episódios de The Ultimate Fighter 27: Undefeated. Pela primeira vez, todos os 16 lutadores do torneio nunca perderam uma luta profissional(n)</desc>
+    <episode-num system="onscreen">E6</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180609210000 -0300" stop="20180609220000 -0300" channel="Combate">
+    <title lang="pt">The Ultimate Fighter 27: Undefeated</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <episode-num system="onscreen">E7</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180609220000 -0300" stop="20180609233000 -0300" channel="Combate">
+    <title lang="pt">Glory 54: Birimingham Super Fight Series</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180609233000 -0300" stop="20180610010000 -0300" channel="Combate">
+    <title lang="pt">Glory 54: Birimingham</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180610010000 -0300" stop="20180610020000 -0300" channel="Combate">
+    <title lang="pt">Revista Combate</title>
+    <desc lang="pt">A revista eletrônica semanal do Combate vai ao ar todos às terças-feiras, AO VIVO, a partir das 20h, com programas inéditos. A atração conta com quadros variados com atualidades e curiosidades do mundo das lutas(n)</desc>
+    <episode-num system="onscreen">E23</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180610020000 -0300" stop="20180610030000 -0300" channel="Combate">
+    <title lang="pt">The Ultimate Fighter 27: Undefeated</title>
+    <desc lang="pt">Este episódio especial apresenta os melhores momentos dos cinco primeiros episódios de The Ultimate Fighter 27: Undefeated. Pela primeira vez, todos os 16 lutadores do torneio nunca perderam uma luta profissional(n)</desc>
+    <episode-num system="onscreen">E6</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180610030000 -0300" stop="20180610040000 -0300" channel="Combate">
+    <title lang="pt">The Ultimate Fighter 27: Undefeated</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <episode-num system="onscreen">E7</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180610040000 -0300" stop="20180610053000 -0300" channel="Combate">
+    <title lang="pt">Glory 54: Birimingham Super Fight Series</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180610053000 -0300" stop="20180610070000 -0300" channel="Combate">
+    <title lang="pt">Glory 54: Birimingham</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180610070000 -0300" stop="20180610090000 -0300" channel="Combate">
+    <title lang="pt">Hora do MMA - ACB MMA 87: Mousah x Whiteford</title>
+    <desc lang="pt">Nesta edição de MMA do ACB, em Nottingham, tem Kane Mousah e Robert Whiteford na luta principal. Além disso, Ibragim Chuzhigaev x Mike Rhodes, Dominique Wooding x Dean Garnett, Andre Winner x Adam Aliev, e muito mais(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180610090000 -0300" stop="20180610100000 -0300" channel="Combate">
+    <title lang="pt">Revista Combate</title>
+    <desc lang="pt">A revista eletrônica semanal do Combate vai ao ar todos às terças-feiras, AO VIVO, a partir das 20h, com programas inéditos. A atração conta com quadros variados com atualidades e curiosidades do mundo das lutas(n)</desc>
+    <episode-num system="onscreen">E23</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180610100000 -0300" stop="20180610110000 -0300" channel="Combate">
+    <title lang="pt">The Ultimate Fighter 27: Undefeated</title>
+    <desc lang="pt">Este episódio especial apresenta os melhores momentos dos cinco primeiros episódios de The Ultimate Fighter 27: Undefeated. Pela primeira vez, todos os 16 lutadores do torneio nunca perderam uma luta profissional(n)</desc>
+    <episode-num system="onscreen">E6</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180610110000 -0300" stop="20180610120000 -0300" channel="Combate">
+    <title lang="pt">The Ultimate Fighter 27: Undefeated</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <episode-num system="onscreen">E7</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180610120000 -0300" stop="20180610140000 -0300" channel="Combate">
+    <title lang="pt">Hora do MMA - ACB MMA 87: Mousah x Whiteford</title>
+    <desc lang="pt">Nesta edição de MMA do ACB, em Nottingham, tem Kane Mousah e Robert Whiteford na luta principal. Além disso, Ibragim Chuzhigaev x Mike Rhodes, Dominique Wooding x Dean Garnett, Andre Winner x Adam Aliev, e muito mais(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180610140000 -0300" stop="20180610173000 -0300" channel="Combate">
+    <title lang="pt">UFC 221 - Romero x Rockhold</title>
+    <desc lang="pt">Yoel Romero duela contra Luke Rockhold pelo cinturão interino dos pesos-médio. Os pesos-pesados Mark Hunt e Curtis Blaydes se enfrentam no co-main event. O brasileiro Jussier Formiga encara Ben Nguyen no card preliminar(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180610173000 -0300" stop="20180610180000 -0300" channel="Combate">
+    <title lang="pt">UFC Series - UFC Fight Flashback: Romero x Whittaker</title>
+    <desc lang="pt">No UFC 213, os nocauteadores Robert Whittaker e Yoel Romero duelaram pelo cinturão interino dos médios. O UFC Fight Flashback te leva para dentro dessa luta emocionante com imagens e sonoras exclusivas pré evento(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180610180000 -0300" stop="20180610190000 -0300" channel="Combate">
+    <title lang="pt">UFC Series - UFC Main Event: Lawler x Dos Anjos</title>
+    <desc lang="pt">O ex-campeão meio-médio Robbie Lawler enfrentou o ex-campeão dos leves, Rafael Dos Anjos, em uma batalha crucial para o futuro da divisão. Veja a preparação dos dois para a luta, seus treinamentos, e depois ao confronto(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180610190000 -0300" stop="20180610200000 -0300" channel="Combate">
+    <title lang="pt">Countdown To UFC 225 - Whittaker x Romero</title>
+    <desc lang="pt">O programa apresenta a preparação dos atletas para o UFC 225 - Whittaker x Romero(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180610200000 -0300" stop="20180610204500 -0300" channel="Combate">
+    <title lang="pt">Combate News - Ao Vivo</title>
+    <desc lang="pt">Sob o comando de Luiz Prota, com a presença na bancada do jornalista Marcelo Alonso, o programa aborda as notícias quentes do mundo do MMA, tudo que os principais veículos repercutiram sobre a modalidade e o UFC(n)</desc>
+    <episode-num system="onscreen">E23</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180610204500 -0300" stop="20180610205500 -0300" channel="Combate">
+    <title lang="pt">Lutando Por Um Sonho: Rafael Apocalipse</title>
+    <desc lang="pt">Rafael Hudson Gomes Xavier, o Apocalipse, é de um bairro humilde de Ubatuba. Com 16 anos, veio para o RJ e começou a treinar Muay Thai. Depois de muitas dificuldades, hoje ele é lutador de MMA e consegue viver do esporte(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180610205500 -0300" stop="20180610210000 -0300" channel="Combate">
+    <title lang="pt">Minuto BJJ Com Luciana Franchini</title>
+    <desc lang="pt">Matérias sobre o mundo do BJJ com a repórter Luciana Franchini(n)</desc>
+    <episode-num system="onscreen">E18</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180610210000 -0300" stop="20180610220000 -0300" channel="Combate">
+    <title lang="pt">UFC Now</title>
+    <desc lang="pt">Especialistas discutem as mais importantes lutas e principais assuntos do mundo UFC. Acesso exclusivo aos bastidores da maior organização de MMA do planeta(n)</desc>
+    <episode-num system="onscreen">E517</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180610220000 -0300" stop="20180610235000 -0300" channel="Combate">
+    <title lang="pt">Hora do MMA - Invicta FC 18: Grasso x Esquibel</title>
+    <desc lang="pt">O Invicta FC 18 terá em seu card as lutas: Alexa Grasso x Jodie Esquibel, Irene Aldana x Taila Santos, Agnieszka Niedzwiedz x Claudia Rey, Cindy Dandois x Jessamyn Duke, Megan Anderson x Peggy Morgan(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180610235000 -0300" stop="20180611010000 -0300" channel="Combate">
+    <title lang="pt">Lutando Por Um Sonho: Rafael Apocalipse</title>
+    <desc lang="pt">Rafael Hudson Gomes Xavier, o Apocalipse, é de um bairro humilde de Ubatuba. Com 16 anos, veio para o RJ e começou a treinar Muay Thai. Depois de muitas dificuldades, hoje ele é lutador de MMA e consegue viver do esporte(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+</tv>
